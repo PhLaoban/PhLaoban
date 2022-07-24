@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">A passionate Junior Web-Developer from Austria located in Vienna, with a background in the Aviation Industry. Affinity for Frontend-Development and Design!</h3>
+<h1 align="left">Hi 👋, I'm Philipp</h1>
+<p align="left">A passionate Junior Web-Developer from Austria located in Vienna, with a background in the Aviation Industry. Affinity for Frontend-Development and Design!</p>
 
 - 👨‍💻 Working with **JavaScript, TypeScript, next.js, React.js, Node.js, PostgresQL, Emotion, Jest, Playwright**
 
 - 📍Located in **Austria**
+
+- 🌱 Eager to improve **on my techstack and skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
